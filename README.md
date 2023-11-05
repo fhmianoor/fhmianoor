@@ -6,7 +6,7 @@
 
 💞️ I am open to collaborating on exciting projects that involve innovative problem-solving and cutting-edge technology implementations. Feel free to reach out if you have any interesting ideas or proposals.
 
-📫 You can contact me through my email fhmianoor@example.com. I'm always eager to connect with like-minded individuals and fellow tech enthusiasts. Let's create something amazing together!
+📫 You can contact me through my email fahmianoor12@gmail.com. I'm always eager to connect with like-minded individuals and fellow tech enthusiasts. Let's create something amazing together!
 
 <!---
 fhmianoor/fhmianoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
