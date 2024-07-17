@@ -1,14 +1,13 @@
-👋 Hi, I'm @fhmianoor. Welcome to my profile!
-
-👀 I am passionate about exploring and mastering various programming techniques, constantly striving to expand my knowledge and skills in the dynamic world of software development.
-
-🌱 Currently, I am enthusiastically learning new programming languages and technologies to stay updated with the latest industry trends and best practices.
-
-💞️ I am open to collaborating on exciting projects that involve innovative problem-solving and cutting-edge technology implementations. Feel free to reach out if you have any interesting ideas or proposals.
-
-📫 You can contact me through my email fahmianoor12@gmail.com. I'm always eager to connect with like-minded individuals and fellow tech enthusiasts. Let's create something amazing together!
-
-<!---
-fhmianoor/fhmianoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Use To Code
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-2C2B5C?style=for-the-badge&logo=webstorm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-F05032?style=for-the-badge&logo=laravel&logoColor=white)
+![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
