@@ -4,7 +4,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-2C2B5C?style=for-the-badge&logo=webstorm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-F05032?style=for-the-badge&logo=laravel&logoColor=white)
 ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
