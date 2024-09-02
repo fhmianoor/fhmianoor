@@ -14,4 +14,4 @@
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
 
 ## WakaTime
-![WakaTime](https://wakatime.com/badge/user/cf10267d-93a3-4141-8701-b99cd6c15cba.svg)
+![WakaTime Badge](https://wakatime.com/badge/user/cf10267d-93a3-4141-8701-b99cd6c15cba.svg)
