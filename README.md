@@ -1,3 +1,9 @@
+## Hi There Im Muhamad Fahmi Aulia Noor
+Welcome to my GitHub profile! I am a Computer Science student, passionate about software development and web technologies.
+
+## 🌱 Currently Learning
+- Web Development (Laravel, Node.js).
+
 ## Use To Code
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,3 +24,7 @@
 ## Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082060159625&locale=id_ID)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fhmianoorr_/)
+
+## 📧 Contact Me
+[![Gmail](https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](fahmanoor12@gmail.com)
+
