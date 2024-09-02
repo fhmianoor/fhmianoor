@@ -13,5 +13,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
 
-## WakaTime
+## My Coding Stats
 ![WakaTime Badge](https://wakatime.com/badge/user/cf10267d-93a3-4141-8701-b99cd6c15cba.svg)
