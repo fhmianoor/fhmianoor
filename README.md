@@ -13,3 +13,7 @@
 
 ## My Coding Stats
 ![wakatime](https://wakatime.com/badge/user/cf10267d-93a3-4141-8701-b99cd6c15cba.svg)
+
+
+## My Social Media
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082060159625&locale=id_ID)
