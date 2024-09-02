@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I am a Computer Science student, passionate about 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fhmianoorr_/)
 
 ## 📧 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fahmianoor12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahmianoor12@gmail.com)
 
 
