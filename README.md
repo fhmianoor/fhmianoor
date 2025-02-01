@@ -1,8 +1,8 @@
 ## Hi There Im Muhamad Fahmi Aulia Noor 👋
 Welcome to my GitHub profile! I am a Computer Science student, passionate about software development and web technologies.
 
-## 🌱 Currently Learning
-- Web Development (Laravel, Node.js).
+## 🌱 Interesting
+- Back-End Development (Laravel, Node.js).
 
 ## Use To Code
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
