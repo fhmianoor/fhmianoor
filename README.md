@@ -11,7 +11,7 @@
 
 <h2 align="center">
   <p> 🛠 Tech Stack </p>
-  <img align="center" src="https://skillicons.dev/icons?i=aws,mongodb,mysql,laravel,nodejs,electron,docker,express,git,github,php,js&perline=12"/>
+  <img align="center" src="https://skillicons.dev/icons?i=aws,mongodb,mysql,sequelize,laravel,nodejs,electron,docker,express,git,github,php,js&perline=12"/>
 </h2>
 
 <div align="center">
