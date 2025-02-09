@@ -16,6 +16,10 @@
 
 <div align="center">
   <p> 🚀 Currently Learning Go, TS, Java </p>
+  <img align="center" src="https://skillicons.dev/icons?i=go,java,typescript&perline=12"/>
+</div>
+<br>
+<div align="center">
   <p> 📫 Let's Connect </p>
 <h2>
   <a href="mailto:fahmianoor12@gmail.com" target="_blank">
