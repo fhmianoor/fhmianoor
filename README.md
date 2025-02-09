@@ -18,7 +18,7 @@
   <p> 🚀 Currently Learning Go, TS, Java </p>
   <p> 📫 Let's Connect </p>
 <h2>
-  <a href="fahmianoor12@gmail.com" target="_blank">
+  <a href="mailto:fahmianoor12@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://discord.com/users/fahmianoor12" target="_blank">
