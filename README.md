@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/fhmianoor/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="www.linkedin.com/in/muhamad-fahmi-aulia-noor" target="_blank">
+  <a href="https://www.linkedin.com/in/muhamad-fahmi-aulia-noor/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </h2>
