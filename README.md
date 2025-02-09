@@ -1,31 +1,45 @@
-## Hi There Im Muhamad Fahmi Aulia Noor 👋
-Welcome to my GitHub profile! I am a Computer Science student, passionate about software development and web technologies.
-
-## 🌱 Interesting
-- Back-End Development (Laravel, Node.js).
-
-## Use To Code
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=laravel&logoColor=white)
-![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-## 📈 My Coding Stats
-![wakatime](https://wakatime.com/badge/user/cf10267d-93a3-4141-8701-b99cd6c15cba.svg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fhmianoor.fhmianoor"/> <img align="right" src="https://wakatime.com/badge/user/cf10267d-93a3-4141-8701-b99cd6c15cba.svg"/>
 
 
-##  🔗  Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082060159625&locale=id_ID)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fhmianoorr_/)
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Ringteous&size=25center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi There Im Muhamad Fahmi Aulia Noor"/>
+</a>
+</h1>
 
-## 📧 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahmianoor12@gmail.com)
+<p align="center"> Welcome to my GitHub profile! I am a Computer Science student, passionate about software development and web technologies.</p>
+
+<h2 align="center">
+  <p> 🛠 Tech Stack </p>
+  <img align="center" src="https://skillicons.dev/icons?i=aws,mongodb,mysql,laravel,nodejs,electron,docker,express,git,github,php,js&perline=12"/>
+</h2>
+
+<div align="center">
+  <p> 🚀 Currently Learning Go, TS, Java </p>
+  <p> 📫 Let's Connect </p>
+<h2>
+  <a href="fahmianoor12@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/fahmianoor12" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/fhmianoor/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="www.linkedin.com/in/muhamad-fahmi-aulia-noor" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</h2>
+</div>
+
+
+<h2 align="center">
+<img alt="my stats"  width="40%" src="https://github-readme-stats.vercel.app/api?username=fhmianoor&show_icons=true&theme=radical"/>
+
+<img alt="my stats" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhmianoor&layout=compact&show_icons=true&theme=radical"/> 
+</h2>
+
+
 
 
